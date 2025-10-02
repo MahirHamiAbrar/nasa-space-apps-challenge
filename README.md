@@ -483,6 +483,7 @@ This document describes the complete workflow from data download to final predic
 │                   6. VISUALIZATION & ANALYSIS                │
 │         Create dashboard with SHAP explanations              │
 └─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
