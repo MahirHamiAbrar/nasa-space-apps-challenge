@@ -1,0 +1,14 @@
+[project]
+name = "nasa-space-apps"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.30",
+    "langchain-huggingface>=0.3.1",
+    "langchain-qdrant>=0.2.1",
+    "lightkurve>=2.5.1",
+    "sentence-transformers>=5.1.1",
+]
